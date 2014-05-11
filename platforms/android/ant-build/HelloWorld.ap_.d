@@ -20,9 +20,7 @@ E:\test\platforms\android\assets\www\css \
 E:\test\platforms\android\assets\www\icon.png \
 E:\test\platforms\android\assets\www\img \
 E:\test\platforms\android\assets\www\index.html \
-E:\test\platforms\android\assets\www\index.html.old.html \
 E:\test\platforms\android\assets\www\js \
-E:\test\platforms\android\assets\www\phonegap.js \
 E:\test\platforms\android\assets\www\plugins \
 E:\test\platforms\android\assets\www\res \
 E:\test\platforms\android\assets\www\spec \
