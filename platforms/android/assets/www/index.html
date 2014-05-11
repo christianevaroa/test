@@ -6,17 +6,13 @@
     <script type="text/javascript" charset="utf-8" src="cordova-x.x.x.js"></script>
     <script type="text/javascript" charset="utf-8">
 
-    // device APIs are available
+    // Wait for device API libraries to load
     //
-    function onDeviceReady() {
+    document.addEventListener("deviceready", function(){
         alert('got here');
         var element = document.getElementById('text');
         element.innerHTML = 'This text has changed...';
-    }
-
-    // Wait for device API libraries to load
-    //
-    document.addEventListener("deviceready", onDeviceReady, false);
+    }, false);
 
     </script>
   </head>
